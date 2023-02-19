@@ -1,4 +1,4 @@
-![image](https://github.com/Romeo0101/omeco-queuing-system/tree/main/includes/images/repo-banner.png)
+![image](https://github.com/Romeo0101/omeco-queuing-system/blob/main/includes/images/banner-repo.png)
 
 ### Description
 
